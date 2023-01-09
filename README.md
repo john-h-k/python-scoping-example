@@ -1,3 +1,5 @@
+Made this to demonstrate python scoping to a "friend"
+
 ```
 python main.py # works entirely fine
 ```
